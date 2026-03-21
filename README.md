@@ -1,5 +1,5 @@
 # Hi, I'm Gamith Ranasinghe 👋
-### Software Engineer | Full Stack Developer | Aspiring Data Scientist
+### Software Engineer | Full Stack Developer | Aspiring AI Engineer
 
 I'm a Software Engineering graduate from ICBT Campus (HND in Computing and Software Engineering, Distinction) based in Colombo, Sri Lanka. I have hands-on experience building real-world applications across healthcare, finance, fitness, and enterprise domains. I'm currently pursuing my **Bachelor's Degree in Data Science** and actively looking for opportunities to grow further in the industry.
 
