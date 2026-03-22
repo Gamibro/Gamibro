@@ -1,7 +1,34 @@
-# Hi, I'm Gamith Ranasinghe 👋
-### Software Engineer | Full Stack Developer | Aspiring AI Engineer
+<div align="center">
 
-I'm a Software Engineering graduate from ICBT Campus (HND in Computing and Software Engineering, Distinction) based in Colombo, Sri Lanka. I have hands-on experience building real-world applications across healthcare, finance, fitness, and enterprise domains. I'm currently pursuing my **Bachelor's Degree in Data Science** and actively looking for opportunities to grow further in the industry.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Gamith%20Ranasinghe&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=16&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Gamith+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Intern+%40+Colombo+Dockyard+%E2%9C%85;Aspiring+Data+Scientist+%F0%9F%A4%96;Open+to+New+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+
+<p>
+  <a href="mailto:gamithranasinghe001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gamith-ranasinghe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Gamibro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👨‍💻 About Me
+
+</div>
+
+I'm a Software Engineering graduate from ICBT Campus *(HND — Distinction)* based in Colombo, Sri Lanka. I have hands-on experience building real-world applications across healthcare, finance, fitness, and enterprise domains. I'm currently pursuing my **Bachelor's Degree in Data Science** and actively looking for opportunities to grow further in the industry.
+
+<div align="center">
+
+| 🎓 HND in Computing & Software Engineering | 💼 6-Month Internship @ Colombo Dockyard | 📍 Colombo, Sri Lanka |
+|:---:|:---:|:---:|
+| ICBT Campus — Distinction, 2025 | Dockyard Total Solutions | Available for Work |
+
+</div>
 
 ---
 
@@ -180,10 +207,33 @@ A tuition centre management system built around three user roles: **Admin**, **T
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Gamith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamibro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamibro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gamibro&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=06B6D4&currStreakLabel=06B6D4)
+
+</div>
+
+---
+
 ## 📫 How to Reach Me
 
 I'm available by **email** — feel free to reach out for job opportunities, collaborations, or just to connect!
 
-📧 **gamithranasinghe001@gmail.com**
-🔗 [LinkedIn](https://linkedin.com/in/gamith-ranasinghe)
-💻 [GitHub](https://github.com/Gamibro)
+<div align="center">
+
+| 📧 Email | 🔗 LinkedIn | 💻 GitHub |
+|:---:|:---:|:---:|
+| [gamithranasinghe001@gmail.com](mailto:gamithranasinghe001@gmail.com) | [gamith-ranasinghe](https://linkedin.com/in/gamith-ranasinghe) | [Gamibro](https://github.com/Gamibro) |
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer&animation=fadeIn)
+
+</div>
