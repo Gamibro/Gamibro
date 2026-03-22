@@ -35,34 +35,13 @@ I'm currently pursuing my **Bachelor's Degree in Data Science** while actively s
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  
-### 🎓 Education
-**HND - Distinction**  
-Computing & Software Engineering  
-*ICBT Campus, 2025*
+<div align="center">
 
-</td>
-<td align="center" width="33%">
-  
-### 💼 Experience
-**6 Months Internship**  
-Full Stack Web Developer  
-*Dockyard Total Solutions*
+🎓 **HND in Computing & Software Engineering - Distinction** | ICBT Campus, 2025  
+💼 **6 Months Full Stack Internship** | Dockyard Total Solutions  
+📍 **Based in Colombo, Sri Lanka** 🇱🇰 | Available for Remote/On-site
 
-</td>
-<td align="center" width="33%">
-  
-### 📍 Location
-**Colombo, Sri Lanka** 🇱🇰  
-Available for Full-Time  
-*Remote / On-site*
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -140,7 +119,7 @@ A comprehensive multi-module healthcare application built with React, Node.js, a
 
 **Tech Stack:** React.js, Node.js, MySQL, REST API, JWT Authentication
 
----
+<br/>
 
 ### 💰 **Money Lending Management System**
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gamibro/Gamibro)
@@ -155,7 +134,7 @@ An enterprise-grade loan management platform with comprehensive financial tracki
 
 **Tech Stack:** C# ASP.NET MVC, React, MySQL
 
----
+<br/>
 
 ### 🎂 **Cake Tuition Management System**
 
@@ -169,7 +148,7 @@ A complete tuition center management platform serving three user roles: Admin, T
 
 **Tech Stack:** React, Node.js, MySQL
 
----
+<br/>
 
 ### 🏆 **Leadership Dashboard — Colombo Dockyard**
 
@@ -183,7 +162,7 @@ An interactive department ranking system built for internal use at Colombo Docky
 
 **Tech Stack:** React, SheetJS (xlsx), Excel Integration
 
----
+<br/>
 
 ### 💇 **Salon Management System**
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gamibro/Salon)
@@ -197,7 +176,7 @@ A role-based salon management platform with customer and admin interfaces.
 
 **Tech Stack:** React, C#, MySQL
 
----
+<br/>
 
 ### 📱 **LuxeVista — Mobile Room Booking App**
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gamibro/LuxeVista)
@@ -211,7 +190,7 @@ A native Android application for seamless hotel room booking.
 
 **Tech Stack:** Android Studio (Java)
 
----
+<br/>
 
 ### 🏋️ **Fitness Tracking Platform**
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gamibro/FitnessWeb)
@@ -225,7 +204,7 @@ A comprehensive fitness tracking web application with database integration.
 
 **Tech Stack:** HTML, CSS, PHP, MySQL
 
----
+<br/>
 
 ### 🔧 **Gadget Hub — Service-Oriented Application**
 
@@ -238,7 +217,7 @@ An enterprise application demonstrating service-oriented architecture principles
 
 **Tech Stack:** C# .NET Framework
 
----
+<br/>
 
 ### 🐾 **Paw Pet Shop — Management System**
 
@@ -255,66 +234,49 @@ An object-oriented pet shop management system showcasing core OOP principles.
 
 ## 🎓 Education & Certifications
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
 ### 📚 Academic Qualifications
 
-**Bachelor's Degree in Data Science**  
-*Currently Pursuing*
+**Bachelor's Degree in Data Science** — *Currently Pursuing*
 
-**HND in Computing & Software Engineering**  
-ICBT Campus — **Distinction**, 2025
+**HND in Computing & Software Engineering** — ICBT Campus, 2025 (Distinction)
 
-</td>
-<td align="center" width="50%">
+<br/>
 
 ### 📜 Professional Certifications
 
-**Certificate in Mathematics for Machine Learning**  
-SimpliLearn SkillUP, 2026
+**Certificate in Mathematics for Machine Learning** — SimpliLearn SkillUP, 2026
 
-**Introduction to Cybersecurity**  
-Cisco Networking Academy, 2021
+**Introduction to Cybersecurity** — Cisco Networking Academy, 2021
 
-**Cambridge English Qualifications**  
-PET (Merit), KET (Distinction), YLE Flyers (Distinction)
+**Cambridge English Qualifications** — PET (Merit), KET (Distinction), YLE Flyers (Distinction)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 🎯 Current Status & Goals
 
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
-### 📖 What I'm Doing Now
+**What I'm Doing Now:**
 
 - 📚 Pursuing Bachelor's in Data Science
 - 🤖 Expanding knowledge in AI and Machine Learning
 - 💻 Building data-driven solutions and applications
 - 🌱 Continuously learning new technologies
 
-</td>
-<td width="50%">
+**What I'm Looking For:**
 
-### 🎯 What I'm Looking For
-
-- 💼 **Full-time software development positions**
+- 💼 Full-time software development positions
 - 🚀 Opportunities to work on innovative projects
 - 👥 Collaborative team environments
-- 📈 Career growth in tech industry
+- 📈 Career growth in the tech industry
+
+<div align="center">
 
 **Status:** ✅ **Available Immediately**
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -335,47 +297,43 @@ PET (Merit), KET (Distinction), YLE Flyers (Distinction)
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing new opportunities, collaborations, or just connecting with fellow developers!
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="50"/><br/>
-<b>Email</b><br/>
-<a href="mailto:gamithranasinghe001@gmail.com">gamithranasinghe001@gmail.com</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50"/><br/>
-<b>LinkedIn</b><br/>
-<a href="https://linkedin.com/in/gamith-ranasinghe">gamith-ranasinghe</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="50"/><br/>
-<b>GitHub</b><br/>
-<a href="https://github.com/Gamibro">@Gamibro</a>
-</td>
-</tr>
-</table>
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="50"/>
+
+**Email:** [gamithranasinghe001@gmail.com](mailto:gamithranasinghe001@gmail.com)
 
 <br/>
 
-**💼 Open to:** Full-Time Positions | Remote Work | Relocation  
-**🌟 Interested in:** Software Development | Data Science | AI & Machine Learning  
-**📍 Based in:** Colombo, Sri Lanka
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50"/>
+
+**LinkedIn:** [linkedin.com/in/gamith-ranasinghe](https://linkedin.com/in/gamith-ranasinghe)
+
+<br/>
+
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="50"/>
+
+**GitHub:** [github.com/Gamibro](https://github.com/Gamibro)
+
+<br/><br/>
+
+💼 **Open to:** Full-Time Positions | Remote Work | Relocation  
+🌟 **Interested in:** Software Development | Data Science | AI & Machine Learning  
+📍 **Based in:** Colombo, Sri Lanka
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Gamibro&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+<br/><br/>
+
+### ⭐ If you find my work interesting, feel free to star my repositories!
 
 </div>
 
 ---
 
 <div align="center">
-
-### ⭐ If you find my work interesting, feel free to star my repositories!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=14,18,20,24&section=footer" width="100%"/>
 
