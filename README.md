@@ -136,6 +136,32 @@ An object-oriented pet shop management system built in Java.
 
 ---
 
+### 🏆 Leadership Dashboard — Colombo Dockyard
+**Tech Stack:** React, SheetJS (xlsx), Excel (.xlsx)
+
+An interactive leadership ranking dashboard built for the departments of Colombo Dockyard.
+- 📂 Excel file (`leadership.xlsx`) is stored in the React public folder as the data source
+- ⚙️ SheetJS reads data directly from specific columns and rows in the spreadsheet
+- 🏅 Each department is ranked based on teamwork and leadership shown in assigned projects
+- 📋 Department cards display project names and descriptions for each assigned project
+- ✅ Shows percentage of project completion and percentage of staff who participated
+- 👥 Displays the ratio of participating members versus total allocated headcount per project
+
+---
+
+### 🎂 Cake Tuition Management System
+**Tech Stack:** React, Node.js, MySQL
+
+A tuition centre management system built around three user roles: **Admin**, **Teacher**, and **Student**.
+- 🛠️ The **Admin** is the sole operator — manages all students and teachers across the system
+- 📋 Admin can enroll students, assign them to teachers, and create or assign classes
+- 💳 Admin records student payments and monitors attendance across all classes
+- 📷 Enrolled students receive a **QR code** with their enrollment and attendance details, scanned by teachers to mark attendance
+- 👩‍🏫 **Teacher** manages their timetables, views class students, enrolls new students, and submits notes and assignments
+- 🎓 **Student** can view their enrollments, assigned teacher, course schedule, and access teacher notes and assignments
+
+---
+
 ## 🎓 Education & Certifications
 
 - 📘 **Bachelor's Degree in Data Science** *(Currently Pursuing)*
