@@ -1,239 +1,718 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Gamith%20Ranasinghe&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=16&animation=fadeIn)
+<!-- Dynamic Header with Gradient Animation -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,12,20&text=GAMITH%20RANASINGHE&fontSize=70&fontColor=fff&fontAlignY=45&desc=◢%20Software%20Engineer%20◤%20Full%20Stack%20Developer%20◢%20Data%20Science%20Enthusiast%20◤&descAlignY=65&descSize=18&animation=twinkling&stroke=00ff88&strokeWidth=2" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Gamith+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Intern+%40+Colombo+Dockyard+%E2%9C%85;Aspiring+Data+Scientist+%F0%9F%A4%96;Open+to+New+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+<br>
 
-<p>
-  <a href="mailto:gamithranasinghe001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/gamith-ranasinghe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Gamibro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&random=false&width=800&height=100&lines=%E2%96%B6+Building+Digital+Solutions;%E2%96%B6+Full+Stack+Architecture;%E2%96%B6+Data+Science+%26+AI+Exploration;%E2%96%B6+Open+for+Opportunities+%F0%9F%92%BC" alt="Typing SVG" /></a>
+
+<!-- Social Connect Bar -->
+<p align="center">
+  <a href="mailto:gamithranasinghe001@gmail.com">
+    <img src="https://img.shields.io/badge/📧_EMAIL-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://linkedin.com/in/gamith-ranasinghe">
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://github.com/Gamibro">
+    <img src="https://img.shields.io/badge/⚡_GITHUB-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  </a>
 </p>
 
-</div>
-
----
-
-<div align="center">
-
-### 👨‍💻 About Me
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
-I'm a Software Engineering graduate from ICBT Campus *(HND — Distinction)* based in Colombo, Sri Lanka. I have hands-on experience building real-world applications across healthcare, finance, fitness, and enterprise domains. I'm currently pursuing my **Bachelor's Degree in Data Science** and actively looking for opportunities to grow further in the industry.
+<br>
+
+<!-- Matrix-style Profile Section -->
+```ascii
+╔══════════════════════════════════════════════════════════════════════╗
+║  > INITIALIZING PROFILE...                                          ║
+║  > LOADING CREDENTIALS...                                           ║
+║  > ACCESS GRANTED ✓                                                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-| 🎓 HND in Computing & Software Engineering | 💼 6-Month Internship @ Colombo Dockyard | 📍 Colombo, Sri Lanka |
-|:---:|:---:|:---:|
-| ICBT Campus — Distinction, 2025 | Dockyard Total Solutions | Available for Work |
+### 🎯 SYSTEM_STATUS :: ACTIVE
 
 </div>
 
----
+```diff
++ SOFTWARE ENGINEER | Full Stack Developer
++ LOCATION: Colombo, Sri Lanka 🇱🇰
++ STATUS: Actively Seeking Opportunities
++ CURRENT_MISSION: Pursuing Bachelor's in Data Science
+```
 
-## 💼 Experience
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎓_HND-DISTINCTION-00ff00?style=for-the-badge&labelColor=000000"/>
+<br><sub>Computing & Software Engineering<br><b>ICBT Campus, 2025</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💼_EXPERIENCE-6_MONTHS-00D9FF?style=for-the-badge&labelColor=000000"/>
+<br><sub>Full Stack Web Development Intern<br><b>Dockyard Total Solutions</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📍_AVAILABILITY-IMMEDIATE-ff00ff?style=for-the-badge&labelColor=000000"/>
+<br><sub>Full-Time Positions<br><b>Remote / On-site</b></sub>
+</td>
+</tr>
+</table>
 
-**Full Stack Web Development Intern — Dockyard Total Solutions, Colombo, Sri Lanka** *(6 Months)*
+<br>
 
-I completed a 6-month internship at Dockyard Total Solutions (Colombo Dockyard), where I worked as part of a professional development team building and maintaining full-stack web applications. My key responsibilities included:
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-- Developing and maintaining full-stack web applications using modern web technologies
-- Participating in software testing and quality assurance processes
-- Designing Entity Relationship (ER) Diagrams for database modeling
-- Creating Data Flow Diagrams (DFDs) to illustrate system processes
-- Assisting with technical and project documentation
+<br>
 
----
-
-## 🛠️ Tech Stack
-
-**🎨 Frontend Development**
-> Building responsive, user-friendly interfaces
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-
-**⚙️ Backend Development**
-> Server-side logic, APIs, and enterprise application development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23_.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-**🗄️ Database & API Technologies**
-> Data management, REST API design, and secure authentication
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-**🧰 Developer Tools & Platforms**
-> Version control, testing, and mobile development environments
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
-
----
-
-## 🚀 Key Projects
-
-### 🏥 CeyHealth — Healthcare Application
-**Tech Stack:** React, Node.js, MySQL, REST API
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gamibro/SeyHealthComplete)
-
-A comprehensive multi-module healthcare platform built with a full-stack architecture.
-- 🤖 Integrated AI-powered symptom checker chatbot for enhanced user experience
-- 📋 Doctor dashboards with real-time patient management capabilities
-- 📅 Patient booking system with appointment scheduling
-- 💳 Secure payment integration and Zoom meeting functionality
-
----
-
-### 💇 Salon Management System
-**Tech Stack:** React, C#, MySQL
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gamibro/Salon)
-
-A full-featured salon management platform with role-based access.
-- 📱 Phone-based login system for user authentication
-- 👤 Separate Admin and Customer interfaces for streamlined management
-- 📆 Customer booking and appointment tracking system
-
----
-
-### 💰 Money Lending Management System
-**Tech Stack:** C# ASP.NET MVC, React, MySQL
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gamibro/Gamibro)
-
-A full-stack loan management system with enterprise-grade features.
-- 🔐 Multi-role authentication supporting Borrower and Admin roles
-- ✅ Secure loan approval workflows and disbursement management
-- 📊 Automated repayment schedule generation with installment tracking
-- 💵 Real-time balance updates and full payment history tracking
-
----
-
-### 📱 LuxeVista — Mobile Room Booking App
-**Tech Stack:** Android Studio (Java)
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gamibro/LuxeVista)
-
-A clean and intuitive mobile application for room booking.
-- 🏨 Seamless room browsing and reservation functionality
-- 🎨 User-friendly interface designed for a smooth booking experience
-
----
-
-### 🏋️ Fitness Web Platform
-**Tech Stack:** HTML, CSS, PHP, MySQL
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gamibro/FitnessWeb)
-
-A comprehensive fitness tracking web application.
-- 📈 Full fitness tracking features backed by a MySQL database
-- 📱 Responsive frontend designed for optimal experience on all devices
-
----
-
-### 🔧 Gadget Hub — Service-Oriented Application
-**Tech Stack:** C# .NET Framework
-
-A scalable enterprise application built on service-oriented architecture.
-- 🧩 Modular design patterns for maintainability and scalability
-- 🏗️ Clean SOA implementation using the .NET Framework in C#
-
----
-
-### 🐾 Paw Pet Shop — Management System
-**Tech Stack:** Java
-
-An object-oriented pet shop management system built in Java.
-- 🧬 Applied core OOP principles: inheritance, polymorphism, and encapsulation
-- 🗂️ Complete inventory and management functionality for a pet shop environment
-
----
-
-### 🏆 Leadership Dashboard — Colombo Dockyard
-**Tech Stack:** React, SheetJS (xlsx), Excel (.xlsx)
-
-An interactive leadership ranking dashboard built for the departments of Colombo Dockyard.
-- 📂 Excel file (`leadership.xlsx`) is stored in the React public folder as the data source
-- ⚙️ SheetJS reads data directly from specific columns and rows in the spreadsheet
-- 🏅 Each department is ranked based on teamwork and leadership shown in assigned projects
-- 📋 Department cards display project names and descriptions for each assigned project
-- ✅ Shows percentage of project completion and percentage of staff who participated
-- 👥 Displays the ratio of participating members versus total allocated headcount per project
-
----
-
-### 🎂 Cake Tuition Management System
-**Tech Stack:** React, Node.js, MySQL
-
-A tuition centre management system built around three user roles: **Admin**, **Teacher**, and **Student**.
-- 🛠️ The **Admin** is the sole operator — manages all students and teachers across the system
-- 📋 Admin can enroll students, assign them to teachers, and create or assign classes
-- 💳 Admin records student payments and monitors attendance across all classes
-- 📷 Enrolled students receive a **QR code** with their enrollment and attendance details, scanned by teachers to mark attendance
-- 👩‍🏫 **Teacher** manages their timetables, views class students, enrolls new students, and submits notes and assignments
-- 🎓 **Student** can view their enrollments, assigned teacher, course schedule, and access teacher notes and assignments
-
----
-
-## 🎓 Education & Certifications
-
-- 📘 **Bachelor's Degree in Data Science** *(Currently Pursuing)*
-- 🎓 HND in Computing and Software Engineering — ICBT Campus *(Distinction, 2025)*
-- 📜 Certificate in Mathematics for Machine Learning — SimpliLearn SkillUP *(2026)*
-- 🔐 Introduction to Cybersecurity — Cisco Networking Academy *(2021)*
-- 🌐 Cambridge English: PET *(Merit)*, KET *(Distinction)*, YLE Flyers *(Distinction)*
-
----
-
-## 🔍 Currently
-
-- 📚 Pursuing my **Bachelor's Degree in Data Science**
-- 💼 **Open to job opportunities** — My 6-month internship at Dockyard Total Solutions has concluded and I'm actively seeking a full-time role to continue growing as a developer
-- 🤖 Deepening my knowledge in **AI, machine learning, and data-driven solutions**
-
----
-
-## 📊 GitHub Stats
+## 💻 `TECH_ARSENAL.json`
 
 <div align="center">
 
-![Gamith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamibro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4&text_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamibro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=ffffff)
+<!-- Frontend Stack -->
+### ⚡ FRONTEND_LAYER
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Gamibro&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=06B6D4&currStreakLabel=06B6D4)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
+</p>
+
+```javascript
+const frontend = {
+  frameworks: ["React.js"],
+  styling: ["CSS3", "Tailwind CSS", "Bootstrap"],
+  markup: ["HTML5", "JSX"],
+  state_management: ["React Hooks", "Context API"]
+};
+```
+
+<!-- Backend Stack -->
+### 🔧 BACKEND_LAYER
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,java,cs,dotnet,php,cpp&theme=dark" />
+</p>
+
+```python
+backend = {
+    "runtime": ["Node.js"],
+    "languages": ["Java", "C#", "PHP", "C++"],
+    "frameworks": [".NET Framework", "ASP.NET MVC"],
+    "api_design": ["RESTful API", "JWT Authentication"]
+}
+```
+
+<!-- Database Stack -->
+### 🗄️ DATABASE_LAYER
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
+</p>
+
+```yaml
+databases:
+  relational: [MySQL]
+  no_sql: [MongoDB]
+  real_time: [Firebase]
+  
+data_tools:
+  - REST API Integration
+  - JWT Token Management
+  - Database Modeling & ER Diagrams
+```
+
+<!-- Tools & Platforms -->
+### 🛠️ DEV_TOOLS
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,vscode,idea&theme=dark" />
+</p>
+
+```bash
+$ git --version
+> Version Control: Git & GitHub ✓
+
+$ tools --list
+> Postman API Testing ✓
+> Android Studio ✓
+> XAMPP Local Server ✓
+> Visual Studio Code ✓
+> IntelliJ IDEA ✓
+```
 
 </div>
 
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
+
+## 🚀 `PROJECTS_PORTFOLIO`
+
+<!-- Project Card Template with Digital Styling -->
+
+<details open>
+<summary><b>🏥 CeyHealth :: Healthcare Platform</b></summary>
+<br>
+
+```typescript
+project.metadata = {
+  stack: "React + Node.js + MySQL + REST API",
+  status: "DEPLOYED",
+  complexity: "★★★★★"
+}
+```
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 FEATURES**
+- 🤖 AI-Powered Symptom Checker
+- 👨‍⚕️ Real-time Doctor Dashboard
+- 📅 Appointment Scheduling System
+- 💳 Secure Payment Integration
+- 🎥 Zoom Meeting Integration
+
+</td>
+<td width="50%">
+
+**🔗 LINKS**
+
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gamibro/SeyHealthComplete)
+
+**TECH HIGHLIGHTS**
+```diff
++ Multi-module architecture
++ RESTful API design
++ Real-time data sync
+```
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📫 How to Reach Me
+</details>
 
-I'm available by **email** — feel free to reach out for job opportunities, collaborations, or just to connect!
+<details>
+<summary><b>💰 Money Lending :: Enterprise Management System</b></summary>
+<br>
+
+```typescript
+project.metadata = {
+  stack: "C# ASP.NET MVC + React + MySQL",
+  status: "PRODUCTION_READY",
+  complexity: "★★★★★"
+}
+```
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 FEATURES**
+- 🔐 Multi-role Authentication System
+- ✅ Loan Approval Workflows
+- 📊 Automated Repayment Schedules
+- 💵 Real-time Balance Tracking
+- 📈 Complete Payment History
+
+</td>
+<td width="50%">
+
+**🔗 LINKS**
+
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gamibro/Gamibro)
+
+**TECH HIGHLIGHTS**
+```diff
++ Enterprise-grade architecture
++ Secure disbursement system
++ Installment management
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+</details>
+
+<details>
+<summary><b>🎂 Cake Tuition :: Management Platform</b></summary>
+<br>
+
+```typescript
+project.metadata = {
+  stack: "React + Node.js + MySQL",
+  status: "OPERATIONAL",
+  complexity: "★★★★☆"
+}
+```
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 FEATURES**
+- 👨‍💼 Admin Control Panel
+- 👩‍🏫 Teacher Management Portal
+- 🎓 Student Dashboard
+- 📷 QR Code Attendance System
+- 📚 Assignment & Notes Sharing
+
+</td>
+<td width="50%">
+
+**TECH HIGHLIGHTS**
+```diff
++ Three-tier user roles
++ QR-based attendance
++ Enrollment automation
++ Payment tracking
+```
+
+**ARCHITECTURE**
+- Admin: Full system control
+- Teacher: Class & student mgmt
+- Student: Learning portal
+
+</td>
+</tr>
+</table>
+
+---
+
+</details>
+
+<details>
+<summary><b>💇 Salon :: Management System</b></summary>
+<br>
+
+```typescript
+project.metadata = {
+  stack: "React + C# + MySQL",
+  status: "DEPLOYED",
+  complexity: "★★★☆☆"
+}
+```
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 FEATURES**
+- 📱 Phone-based Authentication
+- 👤 Role-based Access Control
+- 📆 Booking & Scheduling
+- 💼 Admin Dashboard
+
+</td>
+<td width="50%">
+
+**🔗 LINKS**
+
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gamibro/Salon)
+
+```diff
++ Dual interface design
++ Customer self-service
++ Admin appointment mgmt
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+</details>
+
+<details>
+<summary><b>🏆 Leadership Dashboard :: Colombo Dockyard</b></summary>
+<br>
+
+```typescript
+project.metadata = {
+  stack: "React + SheetJS + Excel Integration",
+  status: "INTERNAL_USE",
+  complexity: "★★★★☆"
+}
+```
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 FEATURES**
+- 📊 Department Ranking System
+- 📂 Excel-based Data Source
+- 🏅 Project Completion Metrics
+- 👥 Staff Participation Tracking
+- 📈 Real-time Analytics
+
+</td>
+<td width="50%">
+
+**TECH HIGHLIGHTS**
+```diff
++ SheetJS integration
++ Dynamic data visualization
++ Department performance metrics
++ Headcount vs participation ratio
+```
+
+**DATA FLOW**
+Excel → SheetJS → React → Dashboard
+
+</td>
+</tr>
+</table>
+
+---
+
+</details>
+
+<details>
+<summary><b>📱 LuxeVista :: Mobile Room Booking</b></summary>
+<br>
+
+```typescript
+project.metadata = {
+  stack: "Android Studio (Java)",
+  status: "MOBILE_APP",
+  complexity: "★★★☆☆"
+}
+```
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 FEATURES**
+- 🏨 Seamless Room Browsing
+- 📅 Booking & Reservations
+- 🎨 Intuitive UI/UX
+- 📱 Native Android Experience
+
+</td>
+<td width="50%">
+
+**🔗 LINKS**
+
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gamibro/LuxeVista)
+
+```java
+// Native Android Development
+platform: "Android",
+language: "Java"
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+</details>
+
+<details>
+<summary><b>🏋️ Fitness Platform :: Web Application</b></summary>
+<br>
+
+```typescript
+project.metadata = {
+  stack: "HTML + CSS + PHP + MySQL",
+  status: "OPERATIONAL",
+  complexity: "★★★☆☆"
+}
+```
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 FEATURES**
+- 📈 Fitness Progress Tracking
+- 🗄️ MySQL Database Backend
+- 📱 Responsive Design
+- 💪 Complete Workout Management
+
+</td>
+<td width="50%">
+
+**🔗 LINKS**
+
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gamibro/FitnessWeb)
+
+```diff
++ Full-stack PHP implementation
++ Responsive UI across devices
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+</details>
+
+<details>
+<summary><b>🔧 Gadget Hub :: Service-Oriented App</b></summary>
+<br>
+
+```typescript
+project.metadata = {
+  stack: "C# .NET Framework",
+  status: "ENTERPRISE_ARCHITECTURE",
+  complexity: "★★★★☆"
+}
+```
+
+**🎯 ARCHITECTURE**
+```diff
++ Service-Oriented Architecture (SOA)
++ Modular design patterns
++ Scalable enterprise solution
++ .NET Framework implementation
+```
+
+---
+
+</details>
+
+<details>
+<summary><b>🐾 Paw Pet Shop :: Management System</b></summary>
+<br>
+
+```typescript
+project.metadata = {
+  stack: "Java",
+  status: "OOP_DEMONSTRATION",
+  complexity: "★★★☆☆"
+}
+```
+
+**🎯 OOP PRINCIPLES**
+```java
+class PawPetShop {
+  // ✓ Inheritance
+  // ✓ Polymorphism
+  // ✓ Encapsulation
+  // ✓ Abstraction
+}
+```
+
+---
+
+</details>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
+
+## 💼 `PROFESSIONAL_EXPERIENCE`
 
 <div align="center">
 
-| 📧 Email | 🔗 LinkedIn | 💻 GitHub |
-|:---:|:---:|:---:|
-| [gamithranasinghe001@gmail.com](mailto:gamithranasinghe001@gmail.com) | [gamith-ranasinghe](https://linkedin.com/in/gamith-ranasinghe) | [Gamibro](https://github.com/Gamibro) |
+### 🏢 DOCKYARD TOTAL SOLUTIONS
+**Full Stack Web Development Intern** | *6 Months*
+
+<img src="https://img.shields.io/badge/COLOMBO_DOCKYARD-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMiAxN0wxMiAyMkwyMiAxNyIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+&logoColor=white&labelColor=00D9FF"/>
 
 </div>
 
+```yaml
+responsibilities:
+  development:
+    - "Full-stack web application development"
+    - "Modern web technology implementation"
+  
+  quality_assurance:
+    - "Software testing & QA processes"
+    - "Bug tracking & resolution"
+  
+  system_design:
+    - "Entity Relationship (ER) Diagrams"
+    - "Data Flow Diagrams (DFDs)"
+    - "System process illustration"
+  
+  documentation:
+    - "Technical documentation"
+    - "Project documentation"
+```
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
+
+## 🎓 `EDUCATION_&_CERTIFICATIONS`
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 📚 ACADEMIC
+
+<img src="https://img.shields.io/badge/🎓_Bachelor's_in_Data_Science-IN_PROGRESS-00ff00?style=for-the-badge&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/🏆_HND_Computing-DISTINCTION-FFD700?style=for-the-badge&labelColor=000000"/>
+<br><sub>ICBT Campus, 2025</sub>
+
+</td>
+<td align="center" width="50%">
+
+### 📜 CERTIFICATIONS
+
+<img src="https://img.shields.io/badge/🤖_Math_for_ML-SimpliLearn_SkillUP-00D9FF?style=flat-square&labelColor=000000"/>
+<br><sub>2026</sub>
+
+<img src="https://img.shields.io/badge/🔐_Intro_to_Cybersecurity-Cisco-00D9FF?style=flat-square&labelColor=000000"/>
+<br><sub>2021</sub>
+
+<img src="https://img.shields.io/badge/🌐_Cambridge_English-PET_|_KET_|_YLE-00D9FF?style=flat-square&labelColor=000000"/>
+<br><sub>Merit & Distinction</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
+
+## 📊 `GITHUB_ANALYTICS`
+
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer&animation=fadeIn)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gamibro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00D9FF&text_color=ffffff&ring_color=00ff88&fire_color=00D9FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gamibro&theme=radical&hide_border=true&background=0D1117&stroke=00ff88&ring=00D9FF&fire=ff00ff&currStreakLabel=00D9FF" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamibro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=ffffff&langs_count=8" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gamibro&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00ff88&point=ff00ff" width="100%"/>
+
+</div>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
+
+## 🎯 `CURRENT_OBJECTIVES`
+
+<div align="center">
+
+```python
+class CurrentStatus:
+    def __init__(self):
+        self.education = "📚 Pursuing Bachelor's in Data Science"
+        self.job_status = "💼 ACTIVELY SEEKING OPPORTUNITIES"
+        self.availability = "✅ IMMEDIATE START AVAILABLE"
+        self.focus_areas = [
+            "🤖 AI & Machine Learning",
+            "📊 Data-Driven Solutions",
+            "🚀 Full Stack Development",
+            "☁️ Cloud Technologies"
+        ]
+    
+    def career_goals(self):
+        return """
+        Seeking full-time role to leverage my 6-month internship 
+        experience and continue growing as a software developer.
+        Ready to contribute to innovative projects and build 
+        impactful digital solutions.
+        """
+```
+
+</div>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
+
+## 📡 `CONNECT_WITH_ME`
+
+<div align="center">
+
+### Let's Build Something Amazing Together! 🚀
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📧_EMAIL-SEND_MESSAGE-00ff88?style=for-the-badge&labelColor=000000"/>
+<br><br>
+<a href="mailto:gamithranasinghe001@gmail.com">
+<b>gamithranasinghe001@gmail.com</b>
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-00D9FF?style=for-the-badge&labelColor=000000"/>
+<br><br>
+<a href="https://linkedin.com/in/gamith-ranasinghe">
+<b>/in/gamith-ranasinghe</b>
+</a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⚡_GITHUB-FOLLOW-ff00ff?style=for-the-badge&labelColor=000000"/>
+<br><br>
+<a href="https://github.com/Gamibro">
+<b>@Gamibro</b>
+</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+```ascii
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  💡 Open to: Full-Time Positions | Remote Work | Relocation   ║
+║  🎯 Interested in: Software Development | Data Science | AI   ║
+║  📍 Based in: Colombo, Sri Lanka                              ║
+║  ⚡ Status: Ready to Start Immediately                        ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Gamibro&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=000000" />
+
+<br><br>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,12,20&section=footer&animation=twinkling" width="100%"/>
 
 </div>
